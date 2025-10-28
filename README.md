@@ -126,17 +126,6 @@ This system aims to **automate image captioning** and make visual content **acce
 
 ---
 
-## 👨‍💻 Contributors
-
-**Group No. Z10**
-
-| Name | Regd. No. |
-|------|------------|
-| Nigamananda Panda | 2141016090 |
-| Ganesh Chandra Das | 2141004078 |
-| Akashdeep Behera | 2141002072 |
-| **Madhav Narayan Mohanty** | 2141013300 |
-
 **Supervised by:**  
 Dr. Rangaballav Pradhan  
 Department of Computer Science & Engineering  
